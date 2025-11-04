@@ -966,12 +966,12 @@ def display_yasir_banner():
     """Display Yasir Abbas ultimate banner"""
     banner = """
     ╔══════════════════════════════════════════════════════════════════════════════╗
-    ║                  YASIR ABBAS - ULTIMATE INTELLIGENCE SYSTEM                 ║
-    ║                         GOVERNMENT RED TEAM RECONNAISSANCE                  ║
-    ║                              ULTIMATE LORD LEVEL v6.0                       ║
+    ║                  YASIR ABBAS - ULTIMATE INTELLIGENCE SYSTEM                  ║
+    ║                         RED TEAM RECONNAISSANCE                              ║
+    ║                         ULTIMATE LORD LEVEL v6.0                             ║
     ║                                                                              ║
-    ║           Complete Stealth & Anonymity | Maximum Efficiency | Elite Results ║
-    ║                      FOR EDUCATIONAL AND AUTHORIZED TESTING ONLY            ║
+    ║           Complete Stealth & Anonymity | Maximum Efficiency | Elite Results  ║
+    ║                      FOR EDUCATIONAL AND AUTHORIZED TESTING ONLY             ║
     ╚══════════════════════════════════════════════════════════════════════════════╝
     """
     print(banner)
