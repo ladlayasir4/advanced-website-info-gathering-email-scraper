@@ -40,7 +40,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 class EliteIntelligenceSystem:
     """
-    ELITE GOVERNMENT RED TEAM INTELLIGENCE SYSTEM
+    ELITE  RED TEAM INTELLIGENCE SYSTEM
     LORD LEVEL - FOCUSED & HIGH-VALUE RECONNAISSANCE
     """
     
@@ -857,9 +857,9 @@ def display_elite_banner():
     """Display elite banner"""
     banner = """
     ╔══════════════════════════════════════════════════════════════════════════════╗
-    ║                        ELITE GOVERNMENT RED TEAM SYSTEM                      ║
+    ║                               ELITE RED TEAM SYSTEM                          ║
     ║                          HIGH-VALUE INTELLIGENCE GATHERING                   ║
-    ║                               LORD LEVEL v4.0                                ║
+    ║                                 LORD LEVEL v4.0                              ║
     ║                               code by yasir abbas                            ║
     ║              Focused Reconnaissance | Maximum Stealth | Elite Results        ║
     ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -868,7 +868,7 @@ def display_elite_banner():
 
 def main():
     """Main execution function"""
-    parser = argparse.ArgumentParser(description="ELITE GOVERNMENT RED TEAM INTELLIGENCE SYSTEM")
+    parser = argparse.ArgumentParser(description="ELITE RED TEAM INTELLIGENCE SYSTEM")
     parser.add_argument("target", help="Target URL or domain")
     parser.add_argument("-o", "--operation", help="Operation name", default=f"ELITE_OP_{int(time.time())}")
     parser.add_argument("--stealth", action="store_true", help="Enable maximum stealth mode")
