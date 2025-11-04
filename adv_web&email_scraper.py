@@ -968,10 +968,10 @@ def display_banner():
     """Display ultra-advanced banner"""
     banner = """
     ╔══════════════════════════════════════════════════════════════════════════════╗
-    ║                     ULTRA ADVANCED GOVERNMENT RED TEAM SYSTEM               ║
+    ║                     ULTRA ADVANCED RED TEAM SYSTEM               ║
     ║                         SUPER FAST & STEALTH RECONNAISSANCE                 ║
     ║                               LORD LEVEL v3.0                               ║
-    ║                                                                              ║
+    ║                                code by: yasir abbas                                             ║
     ║                 30+ User Agents | No API Dependencies | Ultra Fast          ║
     ╚══════════════════════════════════════════════════════════════════════════════╝
     """
